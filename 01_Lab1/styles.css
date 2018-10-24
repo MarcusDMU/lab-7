@@ -1,0 +1,15 @@
+body
+{
+  background: grey;
+}
+h1
+{
+  font:Verdana;
+  font-size:50px;
+  color: orange;
+}
+p
+{
+  font-size: 25px;
+  color: beige;
+}
